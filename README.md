@@ -1,16 +1,16 @@
-## Hi there 👋
+ Olá! Eu sou a Luara-on-Cloud ☁️
 
-<!--
-**luara-on-cloud/luara-on-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Futura Administradora de Cloud | Em transição para a área de Tecnologia
 
-Here are some ideas to get you started:
+🎯 **Meu foco:** Cloud Computing e Banco de Dados
+Quero iniciar minha faculdade de Cloud no ano que vem e estou construindo minha base agora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **O que estou aprendendo:**
+- Fundamentos de Cloud (AWS)
+- Banco de Dados & SQL - base para qualquer Cloud
+- Redes, Sistemas e Infraestrutura
+- Lógica de Programação para automação
+
+🛠️ **Meu objetivo:** Me tornar Cloud Administrator / SysAdmin Cloud
+
+📚 Documentando aqui toda minha jornada rumo à Cloud!
